@@ -1,0 +1,9 @@
+node_modules
+*.DS_Store
+build
+*.idea
+yarn-error.log
+*.sublime-project
+*.sublime-workspace
+/.vscode
+v8-compile-cache-0/

@@ -1,0 +1,12 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+}
+
+h1 {
+  font-weight: 500;
+}
+h2 {
+  font-weight: 400;
+  margin-bottom: 0;
+}
